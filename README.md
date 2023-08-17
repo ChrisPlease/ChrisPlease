@@ -4,10 +4,10 @@ I'm currently a UI Architect working primarily with Vue. Previous experience inc
 
 In my free time, I enjoy learning about Svelte(kit) and GraphQL.
 
-Check out my [resume][] powered by [11ty][]. 
+Check out my [resume][] powered by [Astro][]. 
 
 [resume]: https://chrisplease.me/resume
-[11ty]: https://11ty.dev
+[Astro]: https://astro.build/
 
 <p align="center">
   <a href="https://skillicons.dev">
